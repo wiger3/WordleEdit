@@ -1,0 +1,23 @@
+{
+  "name": "wordleedit",
+  "version": "1.0.0",
+  "description": "Multiplayer game that plays a version of Wordle where players can edit their own words as they go. Runs as a Discord bot!",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carykh/WordleEdit.git"
+  },
+  "author": "carykh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carykh/WordleEdit/issues"
+  },
+  "homepage": "https://github.com/carykh/WordleEdit#readme"
+}
